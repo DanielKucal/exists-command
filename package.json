@@ -1,0 +1,40 @@
+{
+  "name": "exists-command",
+  "version": "0.1.1",
+  "description": "Checks if file or directory with name given as first argument exist and returns proper exit code.",
+  "main": "exists",
+  "bin": {
+    "exists": "./bin/exists"
+  },
+  "scripts": {
+    "exists": "./bin/exists",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielKucal/exists-command.git"
+  },
+  "keywords": [
+    "node",
+    "command",
+    "cli",
+    "exists",
+    "exist",
+    "existence",
+    "file",
+    "directory",
+    "package",
+    "package.json",
+    "npm",
+    "conditional",
+    "conditionally",
+    "run",
+    "script"
+  ],
+  "author": "Daniel Kucal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DanielKucal/exists-command/issues"
+  },
+  "homepage": "https://github.com/DanielKucal/exists-command#readme"
+}
